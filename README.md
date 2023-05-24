@@ -4,10 +4,6 @@
 
 <p align="center">Este projeto foi desenvolvido no Stage 06 do Explorer, o primeiro desafio foi criar um SPA com rotas no JavaScript!</p>
 
-<p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
-</p>
-
 <br/>
 
 # 🔨 Funcionalidades do projeto
